@@ -1,3 +1,4 @@
 # Wordle
 wordle using unity
-![Alt text](./assets/pp.jpg)
+![Alt text](./pic/pp.jpg)
+![Alt text](./pic/pp.jpg)
